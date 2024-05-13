@@ -1,0 +1,2 @@
+[08-Jan-2019 05:03:00 UTC] PHP Warning:  mysqli::__construct(): (42000/1044): Access denied for user 'ShenaniganWorker'@'localhost' to database 'dom_shenanigans' in /home/l2q7smklbdpz/public_html/assets/php/increment.php on line 22
+[08-Jan-2019 05:03:21 UTC] PHP Warning:  mysqli::__construct(): (42000/1044): Access denied for user 'ShenaniganWorker'@'localhost' to database 'dom_shenanigans' in /home/l2q7smklbdpz/public_html/assets/php/increment.php on line 22
